@@ -23,6 +23,7 @@
 
 ## individual reports (direct links)
 - [Senate Intelligence Committee Torture Report] (https://s3.amazonaws.com/s3.documentcloud.org/documents/1376762/torture-report.pdf)
+- [Google Reveals Jacob Applebaum's Gmail to DOJ] (https://s3.amazonaws.com/s3.documentcloud.org/documents/2108000/unsealed-documents-google-appelbaum-wikileaks-case.pdf)
 
 # data resources
 
