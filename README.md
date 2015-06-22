@@ -7,6 +7,7 @@
 - [U.S. General Services Administration Open Tech Hub] (http://open.gsa.gov/developer/)
 - [Govcode: Gov't Open Source Projects] (https://www.govcode.org/)
 - [Sunlight Foundation APIs] (http://sunlightfoundation.com/api/)
+- [Google Civic Information API] (https://developers.google.com/civic-information/)
 
 ## government open data
 - [Project Open Data] (https://project-open-data.cio.gov/)
