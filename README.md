@@ -21,9 +21,9 @@
 - [OpenElections] (https://github.com/openelections)
   - [Documentation] (http://docs.openelections.net/)
 
-## individual reports (direct links)
-- [Senate Intelligence Committee Torture Report] (https://s3.amazonaws.com/s3.documentcloud.org/documents/1376762/torture-report.pdf)
-- [Google Reveals Jacob Applebaum's Gmail to DOJ] (https://s3.amazonaws.com/s3.documentcloud.org/documents/2108000/unsealed-documents-google-appelbaum-wikileaks-case.pdf)
+## individual reports
+- [Senate Intelligence Committee Torture Report] (https://s3.amazonaws.com/s3.documentcloud.org/documents/1376762/torture-report.pdf) *pdf*
+- [Google Reveals Jacob Applebaum's Gmail to DOJ] (https://s3.amazonaws.com/s3.documentcloud.org/documents/2108000/unsealed-documents-google-appelbaum-wikileaks-case.pdf) *pdf*
 
 # data resources
 
@@ -34,11 +34,12 @@
 - [MapReduce introduction for large-scale data processing from Google] (http://research.google.com/archive/mapreduce-osdi04-slides/index.html)
 
 ## data visualization in high dimensions
-- [RnavGraph: an R package to visualize high dimensional data using graphs as navigational infrastructure] (http://cran.r-project.org/web/packages/RnavGraph/vignettes/RnavGraph.pdf)
-- [On Some Mathematics for Visualizing High Dimensional Data] (http://binf.gmu.edu/jsolka/PAPERS/MathVisRevision.pdf)
-- [High-Dimensional Visualizations] (http://www.cs.uml.edu/~mtrutsch/research/High-Dimensional_Visualizations-KDD2001-color.pdf)
+- [RnavGraph: an R package to visualize high dimensional data using graphs as navigational infrastructure] (http://cran.r-project.org/web/packages/RnavGraph/vignettes/RnavGraph.pdf) *pdf*
+- [On Some Mathematics for Visualizing High Dimensional Data] (http://binf.gmu.edu/jsolka/PAPERS/MathVisRevision.pdf) *pdf*
+- [High-Dimensional Visualizations] (http://www.cs.uml.edu/~mtrutsch/research/High-Dimensional_Visualizations-KDD2001-color.pdf) *pdf*
 
 ## text and natural language processing
-- [Handling and Processing Strings in R] (http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
+- [Handling and Processing Strings in R] (http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) *pdf*
+- [CS474 Introduction to Natural Language Processing @ Cornell] (http://www.cs.cornell.edu/courses/cs474/2006fa/)
  
 *Curated by Riley McCloskey*
