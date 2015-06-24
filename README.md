@@ -40,4 +40,5 @@
 
 ## text and natural language processing
 - [Handling and Processing Strings in R] (http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
-- 
+ 
+*Curated by Riley McCloskey*
