@@ -32,4 +32,12 @@
 
 ## big data processing
 - [MapReduce introduction for large-scale data processing from Google] (http://research.google.com/archive/mapreduce-osdi04-slides/index.html)
+
+## data visualization in high dimensions
+- [RnavGraph: an R package to visualize high dimensional data using graphs as navigational infrastructure] (http://cran.r-project.org/web/packages/RnavGraph/vignettes/RnavGraph.pdf)
+- [On Some Mathematics for Visualizing High Dimensional Data] (http://binf.gmu.edu/jsolka/PAPERS/MathVisRevision.pdf)
+- [High-Dimensional Visualizations] (http://www.cs.uml.edu/~mtrutsch/research/High-Dimensional_Visualizations-KDD2001-color.pdf)
+
+## text and natural language processing
+- [Handling and Processing Strings in R] (http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
 - 
