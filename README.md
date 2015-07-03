@@ -1,4 +1,5 @@
 # awesome-public-records
+  *[12 Resources Explaining Tim Berners-Lee's Campaign for Open Data] (http://ideas.ted.com/12-resources-explain-tim-berners-lees-campaign-for-open-data/)* provides an overview of open data
 
 ## document repos
 - [History Lab & the Declassification Engine] (http://history-lab.org/)
@@ -12,6 +13,8 @@
 ## government open data
 - [Project Open Data] (https://project-open-data.cio.gov/)
 - [Code for America] (http://www.codeforamerica.org/)
+- [United Kingdom Open Data] (http://data.gov.uk)
+- [United States of America Open Data] (http://data.gov)
 
 ## github repos
 - [Sunlight Labs] (https://github.com/sunlightlabs)
