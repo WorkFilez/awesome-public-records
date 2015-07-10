@@ -20,6 +20,7 @@
 - [Sunlight Foundation APIs] (http://sunlightfoundation.com/api/)
 - [Google Civic Information API] (https://developers.google.com/civic-information/)
 - [OpenFEC API] (https://api.open.fec.gov/developers)
+- [18F Developers Projects] (https://18f.gsa.gov/dashboard/)
 
 ### github repos
 - [Sunlight Labs] (https://github.com/sunlightlabs)
@@ -52,7 +53,14 @@
 - [Handling and Processing Strings in R] (http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) *pdf*
 - [CS474 Introduction to Natural Language Processing @ Cornell] (http://www.cs.cornell.edu/courses/cs474/2006fa/)
  
-
+## articles & how-to's
+### OpenFEC API
+- [OpenGov Voices - How the FEC is making it easier to follow the money] (https://sunlightfoundation.com/blog/2015/06/01/opengov-voices-how-the-fec-is-making-it-easier-to-follow-the-money/)
+  - *By __FEC Chair Ann Ravel__ on Sunlight Foundation Blog*
+- [Introducing the FEC's first API] (https://18f.gsa.gov/2015/07/08/openfec-api/)
+  - *By __18F Developer Lindsay Young__ on the GSA Blog*
+- [OpenFEC makes campaign finance data more accessible with new API: Here's how to get started] (https://sunlightfoundation.com/blog/2015/07/08/openfec-makes-campaign-finance-data-more-accessible-with-new-api-heres-how-to-get-started/)
+  - *By Bob Lannon on Sunlight Foundation Blog*
 
 
 *Curated by Riley McCloskey*
