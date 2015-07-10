@@ -19,6 +19,7 @@
 - [Govcode: Gov't Open Source Projects] (https://www.govcode.org/)
 - [Sunlight Foundation APIs] (http://sunlightfoundation.com/api/)
 - [Google Civic Information API] (https://developers.google.com/civic-information/)
+- [OpenFEC API] (https://api.open.fec.gov/developers)
 
 ### github repos
 - [Sunlight Labs] (https://github.com/sunlightlabs)
@@ -27,6 +28,8 @@
   - [Congressional Record] (https://github.com/unitedstates/congressional-record)
 - [OpenElections] (https://github.com/openelections)
   - [Documentation] (http://docs.openelections.net/)
+- [GSA 18F Developers] (https://github.com/18F)
+  - [OpenFEC] (https://github.com/18F/openFEC)
 
 ### individual reports
 - [Senate Intelligence Committee Torture Report] (https://s3.amazonaws.com/s3.documentcloud.org/documents/1376762/torture-report.pdf) *pdf*
