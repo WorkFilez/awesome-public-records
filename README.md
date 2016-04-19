@@ -64,4 +64,5 @@
 
 
 *Curated by Riley S. McCloskey*
+Learn more about me:
 [rsmccloskey.me](http://rsmccloskey.me)
