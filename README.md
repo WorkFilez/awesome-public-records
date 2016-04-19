@@ -52,7 +52,7 @@
 ### text and natural language processing
 - [Handling and Processing Strings in R] (http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) *pdf*
 - [CS474 Introduction to Natural Language Processing @ Cornell] (http://www.cs.cornell.edu/courses/cs474/2006fa/)
- 
+
 ## articles & how-to's
 ### OpenFEC API
 - [OpenGov Voices - How the FEC is making it easier to follow the money] (https://sunlightfoundation.com/blog/2015/06/01/opengov-voices-how-the-fec-is-making-it-easier-to-follow-the-money/)
@@ -63,4 +63,5 @@
   - *By Bob Lannon on Sunlight Foundation Blog*
 
 
-*Curated by Riley McCloskey*
+*Curated by Riley S. McCloskey*
+[rsmccloskey.me](http://rsmccloskey.me)
