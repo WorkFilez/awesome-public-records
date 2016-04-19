@@ -65,5 +65,3 @@
 
 *Curated by Riley S. McCloskey*
 [rsmccloskey.me](http://rsmccloskey.me)
-
-that's me
